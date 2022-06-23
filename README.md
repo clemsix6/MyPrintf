@@ -35,6 +35,6 @@ L'utilisation de la fonction se fait comme ci-dessous
 my_printf("I'll %s to make the %s %c success and get a mark of %d%c\n", "work hard", "my_printf", 'a', 100, '%');
 ```
 
-Ce qui affiche dans a console le résultat suivant
+Ce qui affiche dans le terminal le résultat suivant
 
 > I'll work hard to make the my\_printf a success and get a mark of 100%
