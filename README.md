@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Le MyPrintf est un projet qui conciste à re coder la fonction système printf présente dans la libC.
+Le MyPrintf est un projet qui consiste à re coder la fonction système printf présente dans la libC.
 
 
 
@@ -10,7 +10,7 @@ Le MyPrintf est un projet qui conciste à re coder la fonction système printf p
 
 Le printf gère tous les flags de la fonction système comme le %s qui permet d'insérrer une string ou %d qui permet d'insérer un nombre entier.
 
-Pour tester la fonction nous avons du faire des tests unitaires comme ci-dessous:
+Pour tester la fonction nous avons dû faire des tests unitaires comme ci-dessous:
 
 ```c
 int main(void)
